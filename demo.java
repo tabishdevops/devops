@@ -5,5 +5,13 @@ class Demo
 		.....
 		s.o.p("Hello");
 	}
+	void DEPOSIT()
+	{
+		.......
+	}
+	void WITHDRAWAL()
+	{
+		.......
+	}
 	
 }
